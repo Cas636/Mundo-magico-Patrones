@@ -11,7 +11,7 @@ git clone https://github.com/Cas636/Othelo.git
 ```
 2. Navega hasta el directorio donde se encuentran los archivos del juego.
 3. Para jugar ejecuta Othelo.jar
-![](/recursos/img1.png)
+![](/Recursos/img1.png)
 
 ## Cómo jugar
 - El tablero se representa como una cuadrícula 8x8.
@@ -26,18 +26,18 @@ git clone https://github.com/Cas636/Othelo.git
 
 
 # Wizarding World
-![](/recursos/img1.png)
+![](/Recursos/img1.png)
 
 ## Descripción
 "Wizarding World" es un juego de aventuras mágicas desarrollado en Java, inspirado en el mundo de la magia y la fantasía. Los jugadores se sumergirán en un universo lleno de hechizos, criaturas místicas y desafíos.
 
 ## Características principales
 - Gráficos impresionantes: Utiliza librerías gráficas avanzadas para ofrecer una experiencia visual cautivadora.
-![](/recursos/img4.png)
+![](/Recursos/img4.png)
 - Patrones de diseño: Implementación de varios patrones de diseño como Singleton, Observer, etc., para una arquitectura sólida y mantenible.
-![](/recursos/img2.png)
+![](/Recursos/img2.png)
 - Aventuras mágicas: Explora un mundo lleno de misterio, realizando hechizos y enfrentando desafíos.
-![](/recursos/img7.png)
+![](/Recursos/img7.png)
 ## Requisitos del sistema
 Java 8 o superior.
 
