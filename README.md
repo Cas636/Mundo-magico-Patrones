@@ -29,11 +29,6 @@ Este juego fue desarrollado por:
 3. LIZETH JURANY MIELES MAYORGA
 4. JOHAN ESTEBAN CASTAÑO MARTINEZ
 
-
-
-
-
-
-
+La futura continuación se dara en [este enlace](https://github.com/Cas636/FactoriaMagos.git)
 
 # Mundo-magico-Patrones
